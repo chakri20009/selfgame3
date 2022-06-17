@@ -60,7 +60,7 @@ createCanvas(600,200)
 
     score=0
     coin=0
-    thief.debug=true
+    thief.debug=false
     thief.setCollider("rectangle",0,0,thief.width,thief.height);
 }
 
